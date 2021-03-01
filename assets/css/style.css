@@ -1,8 +1,18 @@
+:root {
+  --primary-dark: #1e1e24;
+  --primary-med: #00642a;
+  --primary-light: #96e072;
+  --accent-dark: #2f6690;
+  --accent-med: #feb034;
+  --accent-light: #fceff9;
+}
+
 * {
   margin: 0px;
   padding: 0px;
   box-sizing: border-box;
 }
+
 body {
   font-family: 'Poppins', sans-serif;
 }
